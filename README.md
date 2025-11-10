@@ -1,1 +1,1 @@
-0-alias -> alias ls= rm -f * to delete every file on current directory
+Repo for the project "Shell, init files, variables and expansions"
