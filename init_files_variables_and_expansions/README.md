@@ -6,3 +6,4 @@
 5-local_variables -> to list all local variables and environment variables, and functions
 6-create_local_variable -> a new local variable : `BEST= School`
 7-create_global_variable -> makes that variable global
+8-true_knowledge -> adds 128 to the value stored in the environment variable `TRUEKNOWLEDGE`
