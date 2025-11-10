@@ -2,4 +2,5 @@
 1-hello\_you -> prints `hello \$USER`  
 2-path -> adds `/action` at the end of PATH
 3-paths -> to count the number of directories in the `PATH`
-\n4-global_variables -> to list environment variables
+4-global_variables -> to list environment variables
+5-local_variables -> to list all local variables and environment variables, and functions
