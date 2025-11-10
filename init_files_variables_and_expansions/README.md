@@ -9,3 +9,4 @@
 8-true_knowledge -> adds 128 to the value stored in the environment variable `TRUEKNOWLEDGE`
 9-divide_and_rule -> divides `POWER` and `DIVIDE` variables
 10-love_exponent_breath -> finds `BREATH` to the power `LOVE`
+11-binary_to_decimal -> convery binaries to decimal values.
