@@ -4,3 +4,5 @@
 3-paths -> to count the number of directories in the `PATH`
 4-global_variables -> to list environment variables
 5-local_variables -> to list all local variables and environment variables, and functions
+6-create_local_variable -> a new local variable : `BEST= School`
+7-create_global_variable -> makes that variable global
