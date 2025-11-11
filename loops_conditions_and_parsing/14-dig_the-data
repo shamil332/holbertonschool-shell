@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# this script displays log in the format: OCCURENCE_NUMBER IP HTTP_CODE
+awk '{print $1, $9}' apache-access.log | sort | uniq -c | sort -nr
