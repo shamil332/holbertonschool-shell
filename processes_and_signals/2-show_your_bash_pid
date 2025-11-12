@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # this script only displays processes with the 'bash' word.
 # shellcheck disable=SC2009
-ps aux -C bash
+ps aux | grep bash
