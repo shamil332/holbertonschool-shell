@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# this script displats to infinity and beyond indefinitely each 2 second
+trap 'echo "I am invincible!!!"' SIGTERM
+while true; do
+  echo 'To infinity and beyond'
+  sleep 2
+done
